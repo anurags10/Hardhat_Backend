@@ -1,0 +1,16 @@
+# Common credential files
+**/credentials.json
+**/client_secrets.json
+**/client_secret.json
+*creds*
+*.dat
+*password*
+*.httr-oauth*
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
